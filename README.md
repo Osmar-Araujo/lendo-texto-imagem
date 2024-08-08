@@ -23,3 +23,11 @@ Considero que os resultados foram muito satisfatórios.
 Se pensamos que o futuro estva "distante", pois é, como dizia a antiga frase da propaganda de vídeo games: "The future is now"...
 Sem dúvidas, a IA é um avanço tecnologico capaz de trazer inúmeros benefícios, superando os desfios que também são impostos... quer sejam
 sociais, quer sejam técnicos.
+
+## Alguns prints dos resultados
+![analise-imagem1](https://github.com/user-attachments/assets/5c67a1e6-6db9-49fc-ae5f-8ad7891c3033)
+
+![analise-imagem2](https://github.com/user-attachments/assets/5d25cf1a-51d0-4282-a33c-f31ab6a6e767)
+
+![analise-imagem3](https://github.com/user-attachments/assets/4c77ea3c-a123-4e95-b93f-7a024ff93115)
+
